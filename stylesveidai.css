@@ -1,10 +1,9 @@
 /* Base styles from your existing CSS */
-body, html {
+body{
     background-color: #21211F;
     font-family: 'Montserrat', sans-serif;
     color: #6E6761;
-    margin: 0;
-    padding: 0;
+
 }
 
 .dark-mode {
@@ -125,7 +124,7 @@ h1 {
     justify-content: space-between;
     margin-bottom: 10px;
     padding-bottom: 8px;
-    border-bottom: 1px solid #444;
+    border-bottom: 0px solid #444;
 }
 
 .dark-mode .faceclaim-header {
@@ -140,10 +139,11 @@ h1 {
 .faceclaim-character {
     font-style: italic;
     font-size: 12px;
+  margin-top:-13px;
 }
 
 .faceclaim-details {
-    display: flex;
+    display: none;
     justify-content: space-between;
     font-size: 11px;
     margin-top: 8px;
@@ -158,13 +158,16 @@ h1 {
 }
 
 .type-real {
+  display:none;
     background-color: #4C4957;
-    color: #d4bc85;
+    color: #d4Valeria Euphemia Greco-Whitmorebc85;
 }
 
 .type-fictional {
-    background-color: #434F3F;
-    color: #d4bc85;
+   background-image: linear-gradient(to right, #A8B9BF, #BFA980, #b58d84);
+    color: white;
+  font-size:7px;
+  padding:5px !important;
 }
 
 .dark-mode-toggle {
@@ -205,4 +208,41 @@ h1 {
     .faceclaims-list {
         grid-template-columns: 1fr;
     }
+}
+
+.faceclaim-card {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    padding: 15px;
+    border: 0px solid #ddd;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.faceclaim-image {
+    width: 80px;
+    height: 80px;
+    flex-shrink: 0;
+    border-radius: 100px;
+    overflow: hidden;
+    background: #f0f0f0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.faceclaim-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.faceclaim-image.no-image {
+    color: #999;
+    font-size: 12px;
+}
+
+.faceclaim-info {
+    flex-grow: 1;
 }
