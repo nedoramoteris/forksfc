@@ -84,7 +84,7 @@ Tilda Swinton	Tessa Louise Johnson	female	2
 Viola Davis	Juniper Mae Forrester	female	2
 Whoopi Goldberg	Virginie Claire Moulin	female	2
 Zoey Deutch	Gabriella Harper Rhodes	female	2
-Alexa Demie	Valeria Euphemia Greco	female	1
+Alexa Demie	Valeria Euphemia Greco-Whitmore	female	1
 Alona Tal	Demetria Nadira Harlow	female	1
 Andrew Garfield	Zachariah Gideon Lund	male	1
 Anne Hathaway	Myrtle Maeve Gray	female	1
