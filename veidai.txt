@@ -132,3 +132,14 @@ Gerard Butler	Julian Sebastian Garcia	male	2
 Tom Hardy	Edward William Richmond	male	2
 Bill Pullman	Bernard Lucien Hopkins	male	2
 J.K. Simmons	Tommaso Luca Benedetti	male	2
+Sophie Turner	Charlotte „Charlie“ Woods	female	2
+Joe Jonas	James „Jamie“ Edwards	male	2
+Antoni Porowski	Antonio „Toni“ Greco	male	2
+Selena Gomez	Chiara Fontana	female	2
+Gigi Hadid	Clara Moretti	female	2
+Gigi Hadid	Elena Moretti	female	2
+Tan France	Claudio Vitale	male	2
+Xavier Serrano	Diego Caruso	male	2
+Vittoria Ceretti	Emanuela „Ella“ Fiore	female	2
+Luca Marinelli	Enzo Marchetti	male	2
+Carmine Recano	Fabio Neri	male	2
