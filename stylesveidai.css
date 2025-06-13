@@ -1,0 +1,208 @@
+/* Base styles from your existing CSS */
+body, html {
+    background-color: #21211F;
+    font-family: 'Montserrat', sans-serif;
+    color: #6E6761;
+    margin: 0;
+    padding: 0;
+}
+
+.dark-mode {
+    background: white;
+    color: #333;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Lemon/Milk light', sans-serif;
+    letter-spacing: 1px;
+    background-image: linear-gradient(to right, #A8B9BF, #BFA980, #b58d84);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+/* Face claims specific styles */
+.filters-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-bottom: 20px;
+    padding: 15px;
+    background: #292725;
+    border-radius: 7px;
+}
+
+.dark-mode .filters-container {
+    background: #f5f5f5;
+}
+
+.filter-group {
+    display: flex;
+    flex-direction: column;
+    min-width: 150px;
+}
+
+.filter-label {
+    font-size: 12px;
+    margin-bottom: 5px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.filter-select, .filter-input {
+    padding: 8px 12px;
+    border-radius: 4px;
+    border: none;
+    background: #33312e;
+    color: #6E6761;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.dark-mode .filter-select, 
+.dark-mode .filter-input {
+    background: #e0e0e0;
+    color: #333;
+}
+
+.clear-filters {
+    align-self: flex-end;
+    padding: 8px 15px;
+    background: #33312e;
+    color: #6E6761;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    transition: background-color 0.2s;
+}
+
+.dark-mode .clear-filters {
+    background: #e0e0e0;
+    color: #333;
+}
+
+.clear-filters:hover {
+    background-color: #3a3835;
+}
+
+.dark-mode .clear-filters:hover {
+    background-color: #d0d0d0;
+}
+
+.faceclaims-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 20px;
+}
+
+.faceclaim-card {
+    background: #292725;
+    border-radius: 7px;
+    padding: 15px;
+    transition: transform 0.3s;
+}
+
+.dark-mode .faceclaim-card {
+    background: #f5f5f5;
+}
+
+.faceclaim-card:hover {
+    transform: translateY(-3px);
+}
+
+.faceclaim-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #444;
+}
+
+.dark-mode .faceclaim-header {
+    border-bottom-color: #e0e0e0;
+}
+
+.faceclaim-name {
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.faceclaim-character {
+    font-style: italic;
+    font-size: 12px;
+}
+
+.faceclaim-details {
+    display: flex;
+    justify-content: space-between;
+    font-size: 11px;
+    margin-top: 8px;
+}
+
+.faceclaim-type {
+    padding: 3px 8px;
+    border-radius: 10px;
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.type-real {
+    background-color: #4C4957;
+    color: #d4bc85;
+}
+
+.type-fictional {
+    background-color: #434F3F;
+    color: #d4bc85;
+}
+
+.dark-mode-toggle {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 5px;
+    border-radius: 7px;
+    cursor: pointer;
+    z-index: 999;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: #6E6761;
+    background-color: rgba(82, 76, 70, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 35px;
+    height: 35px;
+}
+
+.dark-mode-toggle:hover {
+    color: #aba19e;
+}
+
+.no-results {
+    text-align: center;
+    padding: 30px;
+    grid-column: 1 / -1;
+    font-style: italic;
+}
+
+@media (max-width: 768px) {
+    .filters-container {
+        flex-direction: column;
+    }
+    
+    .faceclaims-list {
+        grid-template-columns: 1fr;
+    }
+}
