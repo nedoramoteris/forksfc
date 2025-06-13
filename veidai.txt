@@ -111,7 +111,7 @@ Jensen Ackle	Nathaniel Dean Harlow	male	1
 Jeon Jungkook	Alexis Feiyu King	male	1
 Karen Fukuhara	Florence Elise Winslow	female	1
 Madelyn Cline	Lennon Therasia Windsor	female	1
-Matthew Daddario	Salvatore Edoardo Moretti	female	1
+Matthew Daddario	Salvatore Edoardo Moretti	male	1
 Max Irons	Randall Frank Dreschler	male	1
 Mikey Madison	Harper Adriana Esposito	female	1
 Nina Dobrev	Carmen Iscariot-Denali	female	1
