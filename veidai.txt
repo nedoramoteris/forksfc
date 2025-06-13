@@ -15,7 +15,7 @@ Benedetta Gargari	Ginevra Elena Russo	female	2
 Benedetta Porcaroli	Sophia Martelli	female	2
 Bette Midler	Luisa Carmen Ramirez	female	2
 Carla Gugino	Esmeralda Isabella Rodriguez	female	2
-Celeste Dalla Porta	Serena Giuseppina Bianchi (née Russo)	female	2
+Celeste Dalla Porta	Serena Teresa Bianchi (née Russo)	female	2
 Chloe Bennet	Renata Volturi	female	2
 Dave Franco	Kurt Hartwin Lund	male	2
 Dichen Lachman	Suzuki Kyo Haruka	female	2
@@ -39,7 +39,7 @@ Ibrahim Keshk	Antonio Marco Russo	male	2
 Janhvi Kapoor	Aisha Aadhya Malik	female	2
 Jared Padalecki	Oliver Noah Harlow	male	2
 Jean Reno	Asterios Nikos Franopoulos	male	2
-Jenna Coleman	Bianca Juliett Harlow	female	2
+Jenna Coleman	Bianca Juliett Harlow-Bakir	female	2
 Jessica Lange	Gaelle Amélie Deveraux	female	2
 Joan Plowright	Theofania Maria Caras-Dragoumis	female	2
 Joan Cusack	Sofía Isabel Domínguez	female	2
@@ -62,7 +62,7 @@ Marisa Tomei	Gertrude Miriam Nicholson	female	2
 Michele Morrone	Salvatore Enzo Russo	male	2
 Max Thieriot	Adam Christopher Miller	male	2
 Monica Barbaro	Mariana Lucía Gonzalez	female	2
-Monica Bellucci	Alessandra Maria Bianchi	female	2
+Monica Bellucci	Alessandra Maria Mancini-Bianchi	female	2
 Nick Offerman	William Arthur Atkins	male	2
 Philippine Leroy-Beaulieu	Emma Celestine Boucher	female	2
 Polly Holliday	Gladys Agatha Archdale	female	2
@@ -77,7 +77,7 @@ Salma Hayek	Pauline Estelle Morrison	female	2
 Sarah Paulson	Zara Elizabeth Lennox	female	2
 Saul Nanni	Matteo Rossi	male	2
 Shawn Mendes	Dominic Lucien Harrington	male	2
-Shirley Maclaine	Zophia Giulia Barone	female	2
+Shirley Maclaine	Zophia Giulia Barone / Zosė	female	2
 Sydney Sweeney	Sandra Maria Núñez	female	2
 Theo James	Kenneth James Sinclair	male	2
 Tilda Swinton	Tessa Louise Johnson	female	2
@@ -100,13 +100,13 @@ Danielle Campbell	Hera Melody Harlow	female	1
 Deva Cassel	Katrina Deva Bianchi	female	1
 Dove Cameron	Anastasia Clara Blackwell	female	1
 Dylan O'Brien	Joshua William Lund	male	1
-Elizabeth Olsen	Veronique Helena Boucher	female	1
+Elizabeth Olsen	Veronique Helena Dreschler	female	1
 Ella Purnell	Arya Natalie Davenport	female	1
 Florence Pugh	Deianeira Cecilia Lund	female	1
 Hande Erçel	Venetia Irida Dragoumis	female	1
 Inbar Lavi	Camille Lillian Boucher	female	1
 Jacob Elordi	West Elliot Harlow	male	1
-Jeffrey Dean	Morgan Jonathan Fort Harlow	male	1
+Jeffrey Dean Morgan	Jonathan Fort Harlow	male	1
 Jensen Ackle	Nathaniel Dean Harlow	male	1
 Jeon Jungkook	Alexis Feiyu King	male	1
 Karen Fukuhara	Florence Elise Winslow	female	1
@@ -114,7 +114,7 @@ Madelyn Cline	Lennon Therasia Windsor	female	1
 Matthew Daddario	Salvatore Edoardo Moretti	male	1
 Max Irons	Randall Frank Dreschler	male	1
 Mikey Madison	Harper Adriana Esposito	female	1
-Nina Dobrev	Carmen Iscariot-Denali	female	1
+Nina Dobrev	Carmen Iscariot Denali	female	1
 Paul Mescal	Declan Aidan Bernhard	male	1
 Paul Wesley	Demetri Lorenzo Volturi	male	1
 Suki Waterhouse	Hazel Adeline Boucher	female	1
