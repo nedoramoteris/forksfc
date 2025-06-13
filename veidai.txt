@@ -1,1 +1,88 @@
 Celebrity	Character	Gender	Existing
+
+Adria Arjona	Esihle Amara Ndlovu	female	papildomas
+Adrien Brody	Niccolò Davide Bianchi	male	papildomas
+Al Pacino	Riccardo Fabrizio Bianchi	male	papildomas
+Alberto Rossi	Romeo Francesco Sorrentino	male	papildomas
+Alessandro de SantisLorenzo Amadeo Bellini	male	papildomas
+Alison Brie	Beatrice Johanna Wolf	female	papildomas
+Archie Madekwe	Alessio the Undressio	male	papildomas
+Astrid Meloni	Sofia Caterina Sorrentino (née Bernardi)	female	papildomas
+Aubrey Plaza	Emilia Leonie Richter	female	papildomas
+Audrey Hepburn	Corinna Elisabetta Russo (née Milanesi)	female	papildomas
+Austin Butler	Jeremiah Rhys Sinclair	male	papildomas
+Barry Keoghan	Franklin Hughes	male	papildomas
+Ben Barnes	Vicente Carlo Sorrentino	male	papildomas
+Benedetta Gargari	Ginevra Elena Russo	female	papildomas
+Benedetta Porcaroli	Sophia Martelli	female	papildomas
+Bette Midler	Luisa Carmen Ramirez	female	papildomas
+Carla Gugino	Esmeralda Isabella Rodriguez	female	papildomas
+Celeste Dalla Porta	Serena Giuseppina Bianchi (née Russo)	female	papildomas
+Chloe Bennet	Renata Volturi	female	papildomas
+Dave Franco	Kurt Hartwin Lund	male	papildomas
+Dichen Lachman	Suzuki Kyo Haruka	female	papildomas
+Dianna Agron	Eleni Karissa Aetós-Lund	female	papildomas
+Dominic West	Reinhardt Gustav Lund	male	papildomas
+Eduardt Badaluta	Luca De Santis	male	papildomas
+Elle Fanning	Jane Volturi	female	papildomas
+Elisa Visari	Alessandra Chiara Bergamaschi (née Sorrentino)	female	papildomas
+Emma Thompson	Lavinia Grace Hendricks	female	papildomas
+Emma Watson	Lucia Isabella Sorrentino	female	papildomas
+Eva Longoria	Sophia Alessia Belotti	female	papildomas
+Federico Cesari	Dante Marcello Sorrentino	male	papildomas
+Gaetano Bruno	Aurelio Andrea Bergamaschi	male	papildomas
+Gary Oldman	Leonardo Marco Belmonte	male	papildomas
+Gerardo Cavaliere	Giacomo Giovanni Russo	male	papildomas
+Haley Lu Richardson	Felicity Gemma Montgomery	female	papildomas
+Harry Styles	Thomas Harlow	male	papildomas
+Helena Bonham Carter	Matilda Sophia Andersen	female	papildomas
+Henry Cavill	Marcus Volturi	male	papildomas
+Ibrahim Keshk	Antonio Marco Russo	male	papildomas
+Janhvi Kapoor	Aisha Aadhya Malik	female	papildomas
+Jared Padalecki	Oliver Noah Harlow	male	papildomas
+Jean Reno	Asterios Nikos Franopoulos	male	papildomas
+Jenna Coleman	Bianca Juliett Harlow	female	papildomas
+Jessica Lange	Gaelle Amélie Deveraux	female	papildomas
+Joan Plowright	Theofania Maria Caras-Dragoumis	female	papildomas
+Joan Cusack	Sofía Isabel Domínguez	female	papildomas
+Julia Jones	Leah Marie Clearwater	female	papildomas
+Julia Roberts	Abigail Rose Collins	female	papildomas
+Julian Richings	Theodosius Valerian Barca	male	papildomas
+Juliette Binoche	Giada Marcella Bianchi (née Allegretti)	female	papildomas
+Kate Siegel	Lila Grace Thompson	female	papildomas
+Kathy Bates	Nijolė Laima Davolienė	female	papildomas
+Kim Rossi Stuart	Paolo Matteo Sorrentino	male	papildomas
+Kit Harington	Eleazar Silas Denali	male	papildomas
+Lara Fabian	Valentina Inés Duarte	female	papildomas
+Leighton Meester	Fiona Giselle Rochefort	female	papildomas
+Lucien Laviscount	Maxime Julien Delacroix	male	papildomas
+Lucy Liu	Akira Kenji Sato	female	papildomas
+Ludovica Martino	Francesca Lucia Russo	female	papildomas
+Mads Mikkelsen	Leonard Bastian Lund	male	papildomas
+Margo Martindale	Barbara Eugenia Franks	female	papildomas
+Marisa Tomei	Gertrude Miriam Nicholson	female	papildomas
+Michele Morrone	Salvatore Enzo Russo	male	papildomas
+Max Thieriot	Adam Christopher Miller	male	papildomas
+Monica Barbaro	Mariana Lucía Gonzalez	female	papildomas
+Monica Bellucci	Alessandra Maria Bianchi	female	papildomas
+Nick Offerman	William Arthur Atkins	male	papildomas
+Philippine Leroy-Beaulieu	Emma Celestine Boucher	female	papildomas
+Polly Holliday	Gladys Agatha Archdale	female	papildomas
+Priyanka Chopra	Aisha Fatima Khan	female	papildomas
+Rami Malek	Samir Bakir	male	papildomas
+Reneé Rapp	Chiara Ilaria Lombardi	female	papildomas
+Richard Madden	Harrison James Whitmore	male	papildomas
+Riley Keough	Olivia Harriet Calloway	female	papildomas
+Rosamund Pike	Alessandra Vittoria Russo (née Castellano)	female	papildomas
+Sabrina Carpenter	Sabrina Miranda Volturi	female	papildomas
+Salma Hayek	Pauline Estelle Morrison	female	papildomas
+Sarah Paulson	Zara Elizabeth Lennox	female	papildomas
+Saul Nanni	Matteo Rossi	male	papildomas
+Shawn Mendes	Dominic Lucien Harrington	male	papildomas
+Shirley Maclaine	Zophia Giulia Barone	female	papildomas
+Sydney Sweeney	Sandra Maria Núñez	female	papildomas
+Theo James	Kenneth James Sinclair	male	papildomas
+Tilda Swinton	Tessa Louise Johnson	female	papildomas
+Viola Davis	Juniper Mae Forrester	female	papildomas
+Whoopi Goldberg	Virginie Claire Moulin	female	papildomas
+Zoey Deutch	Gabriella Harper Rhodes	female	papildomas
