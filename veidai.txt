@@ -122,3 +122,13 @@ Timothée Chalamet	Daniel Apollo Dreschler	male	1
 Tom Holland	Søren Ragnar Lindström	male	1
 Tomer Capone	Dante Konstantin Lund	male	1
 Zendaya	Bernadetta Ottavia Conti	female	1
+Joseph Gordon-Levitt	Finn Alexander O'Connor	male	2
+Alex Pettyfer	Anders Erik Nilsson	male	2
+Julian Morris	Matteo Alberto Lombardi	male	2
+Eddie Redmayne	Liam James O'Brien	male	2
+Sam Claflin	Elias Gabriel Costa	male	2
+Evan Peters	Nico Ross Matthews	male	2
+Gerard Butler	Julian Sebastian Garcia	male	2
+Tom Hardy	Edward William Richmond	male	2
+Bill Pullman	Bernard Lucien Hopkins	male	2
+J.K. Simmons	Tommaso Luca Benedetti	male	2
