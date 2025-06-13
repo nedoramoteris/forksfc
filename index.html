@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personažų veidai</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.cdnfonts.com/css/lemonmilk" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Personažų veidai</h1>
+        
+        <div class="filters-container">
+            <div class="filter-group">
+                <label class="filter-label">SEARCH BY NAME</label>
+                <input type="text" class="filter-input" id="name-filter" placeholder="Actor or character name">
+            </div>
+      
+            
+            <div class="filter-group">
+                <label class="filter-label">FILTER BY GENDER</label>
+                <select class="filter-select" id="gender-filter">
+                    <option value="">All Genders</option>
+                    <option value="Female">Female</option>
+                    <option value="Male">Male</option>
+                    <option value="Non-binary">Non-binary</option>
+                </select>
+            </div>
+            
+            <div class="filter-group">
+                <label class="filter-label">FILTER BY TYPE</label>
+                <select class="filter-select" id="type-filter">
+                    <option value="">All Types</option>
+                    <option value="Real">Real Character</option>
+                    <option value="Fictional">Supporting Character</option>
+                </select>
+            </div>
+            
+            <button class="clear-filters" id="clear-filters">CLEAR FILTERS</button>
+        </div>
+        
+        <div class="faceclaims-list" id="faceclaims-list">
+            <!-- Face claims will be loaded here -->
+        </div>
+    </div>
+    
+    <div class="dark-mode-toggle" id="dark-mode-toggle">☀️</div>
+    
+    <script src="veidaijs.js"></script>
+</body>
+</html>
