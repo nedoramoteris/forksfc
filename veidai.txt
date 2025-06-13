@@ -1,5 +1,3 @@
-Celebrity	Character	Gender	Existing
-
 Adria Arjona	Esihle Amara Ndlovu	female	fake
 Adrien Brody	Niccolò Davide Bianchi	male	fake
 Al Pacino	Riccardo Fabrizio Bianchi	male	fake
