@@ -144,3 +144,5 @@ Xavier Serrano	Diego Caruso	male	2
 Vittoria Ceretti	Emanuela „Ella“ Fiore	female	2
 Luca Marinelli	Enzo Marchetti	male	2
 Carmine Recano	Fabio Neri	male	2
+Alicia Vikander	Savannah Luna Blanchard	female	2
+
