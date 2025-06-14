@@ -149,3 +149,7 @@ Lena Headey	Lena Frida Lund (née Müller)	female	2
 Daniel Brühl	Klaus Jakob Lund	male	2
 Ashley Benson	Yvette Ophelia Boucher	female	2
 Jannis Niewöhner	Frank Hubert Bernhard	male	2
+Hugh Jackman	Albert Edward Smith	male	2
+Robert Downey Jr.	Andreas Nikolaos Papadopoulos	male	2
+Keanu Reeves	Georgios Panagiotis Ioannou	male	2
+Brant Daugherty	Robert James Johnson	male	2
