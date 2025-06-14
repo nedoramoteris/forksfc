@@ -1,3 +1,10 @@
+Kate Winslet	Maria Christina Georgiou	female	2
+Nicole Kidman	Ioanna Sophia Antoniou	female	2
+Julianne Moore	Despina Eleni Papadakis	female	2
+Cate Blanchett	Bernadette Elizabeth Jones	female	2
+Sandra Bullock	Irida Anastasia Papadopoulos	female	2
+Teri Hatcher	Sabrina Louise Clarke	female	2
+Lisa Kudrow	Theodora Eleftheria Constantinou	female	2
 Adria Arjona	Esihle Amara Ndlovu	female	2
 Adrien Brody	Niccolò Davide Bianchi	male	2
 Al Pacino	Riccardo Fabrizio Bianchi	male	2
