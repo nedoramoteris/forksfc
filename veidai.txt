@@ -32,7 +32,7 @@ Gaetano Bruno	Aurelio Andrea Bergamaschi	male	2
 Gary Oldman	Leonardo Marco Belmonte	male	2
 Gerardo Cavaliere	Giacomo Giovanni Russo	male	2
 Haley Lu Richardson	Felicity Gemma Montgomery	female	2
-Harry Styles	Thomas Harlow	male	2
+Harry Styles	Thomas Léon Harlow	male	2
 Helena Bonham Carter	Matilda Sophia Andersen	female	2
 Henry Cavill	Marcus Volturi	male	2
 Ibrahim Keshk	Antonio Marco Russo	male	2
