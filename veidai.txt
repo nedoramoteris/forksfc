@@ -1,3 +1,17 @@
+Kelly Gale	Amelia Clarke	female	2
+Jenna Ortega	Giulia Carbone	female	2
+Frida Gustavsson	Hanna Lindström	female	2
+Monika Jagaciak	Katarzyna Zielińska	female	2
+Ariyan Akaltun	Luca Ferraro	male	2
+Helena Chan	Luisa De Luca	female	2
+Salvatore Cacciatore	Matteo „Teo“ Ricci	male	2
+Danny Glover	Henry Mills	male	2
+Jennifer Love Hewitt	Marta Valli	female	2
+Adriana Lima	Natalia Vargas	female	2
+Kjell Bergqvist	Oliver „Ollie“ Brown	male	2
+Karan Brar	Ravi Kapoor	male	2
+Fabio Mancini	Simone Pellegrini	male	2
+Heidi Klum	Vittoria Mancini	female	2
 Bradley Cooper	Charlie William Brown	male	2
 Kate Winslet	Maria Christina Georgiou	female	2
 Nicole Kidman	Ioanna Sophia Antoniou	female	2
