@@ -220,7 +220,7 @@ Brant Daugherty	Robert James Johnson	male	2
 \u200B Samoyed	Leopoldas	male	1
 \u200B Salem Saberhagen	Obsidianas	male	1
 \u200B Į pensiją išėjęs komisaras Reksas	Reksas	male	1
-\u200B Fluffeers	Triušiai	non-binary	1
+\u200B Fluffers	Triušiai	non-binary	1
 \u200B Sassy Queens Vištos	female	1
 \u200B Šuo iš Supernatural	Antanas	male	1
 \u200B Garbanėlė	Barnabas	male	1
