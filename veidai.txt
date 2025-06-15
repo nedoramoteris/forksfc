@@ -216,7 +216,7 @@ Hugh Jackman	Albert Edward Smith	male	2
 Robert Downey Jr.	Andreas Nikolaos Papadopoulos	male	2
 Keanu Reeves	Georgios Panagiotis Ioannou	male	2
 Brant Daugherty	Robert James Johnson	male	2
-' A Fluffy Ragdoll Cal	Miss Catherine Eleanor Earnshaw Bianchi Harlow	female	1
+ A Fluffy Ragdoll Cal	Miss Catherine Eleanor Earnshaw Bianchi Harlow	female	1
 ' Samoyed	Leopoldas	male	1
 ' Salem Saberhagen	Obsidianas	male	1
 ' Į pensiją išėjęs komisaras Reksas	Reksas	male	1
