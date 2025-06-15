@@ -14,7 +14,7 @@ Margarida Corceiro	Giulia Rinaldi	female	2
 Morgan Freeman	James Carter	male	2
 Riccardo Scamarcio	Davide Russo	male	2
 Aaron Zeederberg	Enzo Mazzetti	male	2
-Jacob Bixenman	Finn O'Connor	male	2
+Jacob Bixenman	Finn O’Connor	male	2
 Federico Massaro	Francesco Ferri	male	2
 Victor Han	Archie Hayes	male	2
 Thylane Blondeau	Amara Evers	female	2
