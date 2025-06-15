@@ -1,3 +1,9 @@
+Thylane Blondeau	Amara Evers	female	2
+Ophélie Guillermand	Evie Hartwell	female	2
+Tina Kunakey	Kaiya Fletcher	female	2
+Willy Cartier	Malik Bennett	male	2
+Charlie Rowe	Duncan Hayes	male	2
+Diego Barrueco	Diego Montoya	male	2
 Finn Wolfhard	Archibald Otto Williams	male	1
 Jacob Anderson	Sargon	male	1
 Sadie Sink	Cassandra Willa Dreschler	female	1
