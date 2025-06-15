@@ -1,3 +1,13 @@
+Jaeden Martell	Ethan James Carter	male	2
+Sophie Thatcher	Yennifer Katarína Horváth	female	2
+Maude Apatow	Kaya Elina Virtanen	female	2
+Hunter Schafer	Isabelle Marie Carter	female	2
+Kevin Alves	Vasilios Dimitriou Papadopoulos	male	2
+Evan Evagora	Dominic Alexandru Popescu	male	2
+Dylan Llewellyn	Lars Kristian Sørensen	male	2
+Laurie Kynaston	Leonard Friedrich Bauer	male	2
+Calam Lynch	Nikolai Ivan Petrov	male	2
+Chloë Grace Moretz	Silvia Claire Dubois	female	2
 Sharam Diniz	Clara Santini	female	2
 Margarida Corceiro	Giulia Rinaldi	female	2
 Morgan Freeman	James Carter	male	2
