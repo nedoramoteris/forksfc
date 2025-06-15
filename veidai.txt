@@ -216,32 +216,32 @@ Hugh Jackman	Albert Edward Smith	male	2
 Robert Downey Jr.	Andreas Nikolaos Papadopoulos	male	2
 Keanu Reeves	Georgios Panagiotis Ioannou	male	2
 Brant Daugherty	Robert James Johnson	male	2
-~ A Fluffy Ragdoll Cal	Miss Catherine Eleanor Earnshaw Bianchi Harlow	female	1
-~ Samoyed	Leopoldas	male	1
-~ Salem Saberhagen	Obsidianas	male	1
-~ Į pensiją išėjęs komisaras Reksas	Reksas	male	1
-~ Fluffeers	Triušiai	non-binary	1
-~ Sassy Queens Vištos	female	1
-~ Šuo iš Supernatural	Antanas	male	1
-~ Garbanėlė	Barnabas	male	1
-~ Hubertas	male	1
-~ Bokseris	Juozas	male	1
-~ Rotveileris	Katinas	male	1
-~ Chris Evanso šuo	Konstantinas	male	1
-~ Šiba	Liusilė	female	1
-~ Literally a beaver	Natanielis Jaunesnysis	male	1
-~ White Fluff	Rozmarinas	male	1
-~ Literally a beaver again	Paslaptingoji NJ panelė iš kitapus tvoros	female	1
-~ Meowster Fluff	Miso	male	1
-~ Ne troškiniys, bet vis tiek	Chilli	male	1
-~ Balta lapė	Profiterol	female	1
-~ Rojaus Sodas	Eden	female	1
-~ Ne žirnis	Pupa	female	1
-~ Ne Amadėjus ir ne Mocartas	Volfgangas	male	1
-~ Sassy French Man	Jazminas / Žakas	male	1
-~ Cuteness Overload	Pogo	male	1
-~ Lietuviškas lenciūginis	Fusillo	male	1
-~ The Dogfather	Don Canino	male	1
-~ Catlana	Svetlana	female	1
-~ Tas ryžas iš Hario Poterio, I think	Rupertas	male	1
-~ Pritrupėjo	Sausainis	male	1
+\u200B A Fluffy Ragdoll Cal	Miss Catherine Eleanor Earnshaw Bianchi Harlow	female	1
+\u200B Samoyed	Leopoldas	male	1
+\u200B Salem Saberhagen	Obsidianas	male	1
+\u200B Į pensiją išėjęs komisaras Reksas	Reksas	male	1
+\u200B Fluffeers	Triušiai	non-binary	1
+\u200B Sassy Queens Vištos	female	1
+\u200B Šuo iš Supernatural	Antanas	male	1
+\u200B Garbanėlė	Barnabas	male	1
+\u200B Hubertas	male	1
+\u200B Bokseris	Juozas	male	1
+\u200B Rotveileris	Katinas	male	1
+\u200B Chris Evanso šuo	Konstantinas	male	1
+\u200B Šiba	Liusilė	female	1
+\u200B Literally a beaver	Natanielis Jaunesnysis	male	1
+\u200B White Fluff	Rozmarinas	male	1
+\u200B Literally a beaver again	Paslaptingoji NJ panelė iš kitapus tvoros	female	1
+\u200B Meowster Fluff	Miso	male	1
+\u200B Ne troškiniys, bet vis tiek	Chilli	male	1
+\u200B Balta lapė	Profiterol	female	1
+\u200B Rojaus Sodas	Eden	female	1
+\u200B Ne žirnis	Pupa	female	1
+\u200B Ne Amadėjus ir ne Mocartas	Volfgangas	male	1
+\u200B Sassy French Man	Jazminas / Žakas	male	1
+\u200B Cuteness Overload	Pogo	male	1
+\u200B Lietuviškas lenciūginis	Fusillo	male	1
+\u200B The Dogfather	Don Canino	male	1
+\u200B Catlana	Svetlana	female	1
+\u200B Tas ryžas iš Hario Poterio, I think	Rupertas	male	1
+\u200B Pritrupėjo	Sausainis	male	1
