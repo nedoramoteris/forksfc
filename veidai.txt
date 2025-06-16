@@ -1,3 +1,7 @@
+Idris Elba	Engel Tobias Müller	male	2
+Jack Black	Damian Lee Roberts	male	2
+Jon Favreau	Henrik Jürgen Schneider	male	2
+John Bradley	Kristaps Andris Berzins	male	2
 Meryl Streep	Danutė Jadvyga Jankauskienė	female	2
 Helen Mirren	Birutė Elena Žukauskienė	female	2
 Susan Sarandon	Violeta Emilija Kazlauskienė	female	2
