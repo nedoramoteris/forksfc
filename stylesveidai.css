@@ -1,3 +1,6 @@
+:root {
+  --daddy-gradient: linear-gradient(to right, #444b44, #9c8672);}
+
 /* Base styles from your existing CSS */
 body{
     background-color: #21211F;
@@ -22,7 +25,7 @@ body{
 h1 {
     font-family: 'Lemon/Milk light', sans-serif;
     letter-spacing: 1px;
-    background-image: linear-gradient(to right, #A8B9BF, #BFA980, #b58d84);
+    background-image: var(--daddy-gradient);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     margin-bottom: 30px;
@@ -164,7 +167,7 @@ h1 {
 }
 
 .type-fictional {
-   background-image: linear-gradient(to right, #A8B9BF, #BFA980, #b58d84);
+   background-image: var(--daddy-gradient);
     color: white;
   font-size:7px;
   padding:5px !important;
