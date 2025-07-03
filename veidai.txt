@@ -41,7 +41,7 @@ Tina Kunakey	Kaiya Fletcher	female	2
 Willy Cartier	Malik Bennett	male	2
 Charlie Rowe	Duncan Hayes	male	2
 Diego Barrueco	Diego Montoya	male	2
-Finn Wolfhard	Archibald Otto Williams	male	1
+Finn Wolfhard	Archibald Otto Williams	male	2
 Jacob Anderson	Sargon	male	1
 Sadie Sink	Cassandra Willa Dreschler	female	1
 Phoebe Tonkin	Corin Aleksandrea Volturi	female	1
