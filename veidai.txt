@@ -1,3 +1,5 @@
+Romain Duris	Louis Alexander Bonnet	male	2
+Guillaume Canet	Evan Gabriel Dubois	male	2
 Anna Sawai	Leticia Catalina Yamada	female	2
 Jack O'Connell	Frederick Elias Adler	male	2
 Xolo Maridueña	Horacio "Horcrux" Rodriguez	male	2
