@@ -1,4 +1,4 @@
-Layla Massoud	Beatrice Bruschi	female	2
+Beatrice Bruschi	Layla Massoud	female	2
 Glenn Powell	Paul Robinson	male	2
 Hannah Dodd	Livia Costa	female	2
 Jonathan Bailey	Luke Collins	male	2
