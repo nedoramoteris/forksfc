@@ -259,6 +259,7 @@ Hugh Jackman	Albert Edward Smith	male	2
 Robert Downey Jr.	Andreas Nikolaos Papadopoulos	male	2
 Keanu Reeves	Georgios Panagiotis Ioannou	male	2
 Brant Daugherty	Robert James Johnson	male	2
+zzz. Yet another black cat	Lucifur	male	1
 zzz. A Fluffy Ragdoll Cat	Miss Catherine Eleanor Earnshaw Bianchi Harlow	female	1
 zzz. Samoyed	Leopoldas	male	1
 zzz. Salem Saberhagen	Obsidianas	male	1
