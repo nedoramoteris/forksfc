@@ -1,5 +1,8 @@
 :root {
-  --daddy-gradient: linear-gradient(to right, #444b44, #9c8672);}
+  --baby-gradient: linear-gradient(to right, #262623, #594A3C, #666F73);
+}
+:root {
+  --daddy-gradient: linear-gradient(to right, #262623, #594A3C, #666F73, #594A3C, #262623);}
 
 /* Base styles from your existing CSS */
 body{
