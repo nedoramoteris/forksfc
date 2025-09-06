@@ -1,3 +1,4 @@
+Josh Heuston	Archibald Elijah Davenport	male	1
 Vanessa Hudgens	Monique Seraphine Marlowe	female	2
 Harry Richardson	Lorenzo "Enzo" Giovanni Messina	male	2
 Benjamin Voisin	Felix "The Fox" Laurent Bouchard	male	2
@@ -196,11 +197,11 @@ Alona Tal	Demetria Nadira Harlow	female	1
 Alona Tal	Isadora Vanessa Dragoumis-Lund	female	2
 Andrew Garfield	Zachariah Gideon Lund	male	1
 Anne Hathaway	Myrtle Maeve Gray	female	1
-Blanca Padilla	Coralie Francesca Romano	female	1
+Blanca Padilla	Coralie Francesca Romano	female	2
 Camila Mendes	Aurora Vivienne Boucher	female	1
 Camila Morrone	Juliette Claire Lefèvre	female	1
 Charles Leclerc	Alessandro Elio Rossi	male	1
-Charles Melton	Theodore Percival Hayes	male	1
+Charles Melton	Theodore Percival Hayes	male	2
 Charlie Hunnam	Emery Herman Bernhard	male	1
 Chris Evans	Michael Romeo Harlow	male	1
 Damiano David	Leone Battista Dalmonte	male	1
@@ -221,7 +222,7 @@ Karen Fukuhara	Florence Elise Winslow	female	1
 Madelyn Cline	Lennon Therasia Windsor	female	1
 Matthew Daddario	Salvatore Edoardo Moretti	male	1
 Max Irons	Randall Frank Dreschler	male	1
-Mikey Madison	Harper Adriana Esposito	female	1
+Mikey Madison	Harper Adriana Esposito	female	2
 Nina Dobrev	Carmen Iscariot Denali	female	1
 Paul Mescal	Declan Aidan Bernhard	male	1
 Paul Wesley	Demetri Lorenzo Volturi	male	1
