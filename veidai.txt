@@ -1,3 +1,6 @@
+Özgü Kaya	Catherine Melnyk	female	2
+Grant Gustin	Augustus Nightingale	male	2
+Daniel Sharman	Jeroslav Beaumont	male	2
 Rose Byrne	Venetia Irida Dragoumis	female	2
 Lee Pace	Nicholas Blackwell	male	2
 Josh Heuston	Archibald Elijah Davenport	male	1
