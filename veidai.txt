@@ -1,3 +1,18 @@
+Anirudh Pisharody	Xavier Sharma	male	2
+Peter Krause	Bobby Williams	male	2
+Samara Weaving	Tessa Roberts	female	2
+
+Madison Davenport	Maggie Rosewood	female	2
+D.J. Cotrona	George Bellafiore	male	2
+Zane Holtz	Alistair Bellafiore	male	2
+
+Elizabeth Debicki	Athenodora Volturi	female	2
+Ana de Armas	Chelsea Volturi	female	2
+Joe Keery	Afton Volturi	male	2
+Amanda Seyfried	Heidi Volturi	female	2
+Lee Dong-wook	Santiago Volturi	male	2
+
+
 Özgü Kaya	Catherine Melnyk	female	2
 Grant Gustin	Augustus Nightingale	male	2
 Daniel Sharman	Jeroslav Beaumont	male	2
