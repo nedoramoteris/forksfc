@@ -13,6 +13,7 @@ Amanda Seyfried	Heidi Volturi	female	2
 Lee Dong-wook	Santiago Volturi	male	2
 
 Adam Elsharkawy	Sami Kharib Shehata	male	2
+Ahmed Malek	Karim Dakarai Sharif	male	2
 
 Özgü Kaya	Catherine Melnyk	female	2
 Grant Gustin	Augustus Nightingale	male	2
