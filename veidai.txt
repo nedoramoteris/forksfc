@@ -254,11 +254,11 @@ Mikey Madison	Harper Adriana Esposito	female	2
 Nina Dobrev	Carmen Iscariot Denali	female	1
 Paul Mescal	Declan Aidan Bernhard	male	1
 Paul Wesley	Demetri Lorenzo Volturi	male	1
-Suki Waterhouse	Hazel Adeline Boucher	female	1
+Suki Waterhouse	Hazel Adeline Boucher	female	2
 Timothée Chalamet	Daniel Apollo Dreschler	male	1
 Tom Holland	Søren Ragnar Lindström	male	1
 Tomer Capone	Dante Konstantin Lund	male	2
-Zendaya	Bernadetta Ottavia Conti	female	1
+Zendaya	Benedetta Ottavia Conti	female	1
 Joseph Gordon-Levitt	Finn Alexander O'Connor	male	2
 Alex Pettyfer	Anders Erik Nilsson	male	2
 Julian Morris	Matteo Alberto Lombardi	male	2
