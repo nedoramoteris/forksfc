@@ -1,4 +1,4 @@
-Robert Downey Jr.	Pappa Lindström	male	2
+Robert Downey Jr.	Lars Anders Lindström	male	2
 Leslie Mann	Saga Ylwa Wikström	female	2
 
 Johnny Depp	Antonio Gaetano Dalmonte	male	2
