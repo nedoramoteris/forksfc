@@ -1,4 +1,5 @@
 Johnny Depp	Antonio Gaetano Dalmonte	male	2
+Eva Green	Verdiana Lucrezia Dalmonte	female	2
 
 Jade Thirlwall	Riley Wachowski-Blue	female	2
 Ashton Irwin	Dave Wachowski	male	2
