@@ -12,6 +12,8 @@ Niall Horan	Theodore Blue	male	2
 Emily Alyn Lind	Vasilisa Ekaterina Morozova	female	2
 Connor Storrie	Nikita Aleksey Morozov	male	1
 Olivia Dean	Rhiannon Noelle Sterling	female	1
+Thandiwe Newton	Seraphine Lenore Sterling	female	2
+Angela Bassett	Althea Evangeline Sterling	female	2
 
 Anirudh Pisharody	Xavier Sharma	male	2
 Peter Krause	Bobby Williams	male	2
@@ -230,12 +232,12 @@ Zoey Deutch	Gabriella Harper Rhodes	female	2
 Alexa Demie	Valeria Euphemia Greco-Whitmore	female	1
 Alona Tal	Demetria Nadira Harlow	female	1
 Alona Tal	Isadora Vanessa Dragoumis-Lund	female	2
-Andrew Garfield	Zachariah Gideon Lund	male	1
+Andrew Garfield	Zachariah Gideon Lund	male	2
 Anne Hathaway	Myrtle Maeve Gray	female	1
 Blanca Padilla	Coralie Francesca Romano	female	2
 Camila Mendes	Aurora Vivienne Boucher	female	1
 Camila Morrone	Juliette Claire Lefèvre	female	1
-Charles Leclerc	Alessandro Elio Rossi	male	1
+Charles Leclerc	Alessandro Elio Rossi	male	2
 Charles Melton	Theodore Percival Hayes	male	2
 Charlie Hunnam	Emery Herman Bernhard	male	2
 Chris Evans	Michael Romeo Harlow	male	1
@@ -262,7 +264,7 @@ Nina Dobrev	Carmen Iscariot Denali	female	1
 Paul Mescal	Declan Aidan Bernhard	male	1
 Paul Wesley	Demetri Lorenzo Volturi	male	1
 Suki Waterhouse	Hazel Adeline Boucher	female	2
-Timothée Chalamet	Daniel Apollo Dreschler	male	1
+Timothée Chalamet	Daniel Apollo Dreschler	male	2
 Tom Holland	Søren Ragnar Lindström	male	1
 Tomer Capone	Dante Konstantin Lund	male	2
 Zendaya	Benedetta Ottavia Conti	female	1
