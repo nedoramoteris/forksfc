@@ -1,3 +1,6 @@
+Dakota Johnson	Delilah Nicole Mendoza	female	2
+Oscar Isaac	Rafael Alejandro Hernandez Mendoza	male	2
+
 Robert Downey Jr.	Lars Anders Lindström	male	2
 Leslie Mann	Saga Ylwa Wikström	female	2
 Hye-kyo Song	Soyun Jeong	female	2
